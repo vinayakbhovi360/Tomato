@@ -5,10 +5,6 @@
   <p>Built with the MERN stack (MongoDB, Express, React, Node.js) and integrated with Stripe for secure payments.</p>
 
   <p>
-    <img src="https://img.shields.io/badge/license-ISC-green.svg" alt="License Badge">
-    <img src="https://img.shields.io/github/stars/yourusername/tomato?style=social" alt="GitHub Stars">
-    <img src="https://img.shields.io/github/forks/yourusername/tomato?style=social" alt="GitHub Forks">
-    <br />
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
@@ -71,7 +67,7 @@ Follow these steps to set up and run the project on your local machine.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/tomato.git](https://github.com/yourusername/tomato.git)
+    git clone https://github.com/vinayakbhovi360/Tomato.git
     cd tomato
     ```
 
@@ -171,16 +167,13 @@ Contributions make the open-source community an amazing place to learn, inspire,
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the ISC License. See the `LICENSE` file for more details.
 
 ## 👨‍💻 Author
 
 **Vinayak Bhovi**
 
--   GitHub: [@yourusername](https://github.com/yourusername)
--   LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+-   GitHub: [@yourusername](https://github.com/vinayakbhovi360)
+-   LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vinayak-bhovi-30134614b/)
 
 ---
 
